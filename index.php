@@ -64,6 +64,17 @@
                         <li>Google Workspaces</li>
                     </ul>
                 </div>
+                <div class="skill-category">
+                    <h3>Other Skills</h3>
+                    <ul>
+                        <li>Problem-Solving skills</li>
+                        <li>Logical Thinking</li>
+                        <li>Communication</li>
+                        <li>Teamwork</li>
+                        <li>Time Management</li>
+                        <li>Organization</li>
+                    </ul>
+                </div>
             </div>
         </div>
     </section>
