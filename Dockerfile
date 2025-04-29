@@ -1,2 +1,2 @@
-FROM Pphp:7.4-apache
-COPY ./inex.php /var/www/html
+FROM php:7.4-apache
+COPY ./index.php /var/www/html
