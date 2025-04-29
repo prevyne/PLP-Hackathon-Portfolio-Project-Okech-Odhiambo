@@ -5,4 +5,3 @@ COPY submit_contact.php /var/www/html
 COPY thank-you.html /var/www/html
 COPY /includes /var/www/html
 COPY /assets /var/www/html
-RUN docker build
